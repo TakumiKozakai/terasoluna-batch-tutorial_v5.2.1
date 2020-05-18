@@ -1,0 +1,1394 @@
+2020-05-02 17:24:23,452 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-02 17:25:02,454 [Worker-8: Maven プロジェクトのインポート中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:tutorial:1.0.0-SNAPSHOT @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-02 17:25:03,719 [Worker-8: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/main/java
+2020-05-02 17:25:03,719 [Worker-8: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/main/resources
+2020-05-02 17:25:03,721 [Worker-8: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/test/java
+2020-05-02 17:25:03,721 [Worker-8: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/test/resources
+2020-05-02 17:25:03,838 [Worker-8: Maven プロジェクトのインポート中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2020-05-02 17:25:05,722 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:25:05,728 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-02 17:25:05,755 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:25:05,756 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:27:11,009 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:27:11,013 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:27:11,019 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:27:11,020 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:27:58,213 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:27:58,221 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:27:58,227 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:27:58,227 [Worker-9: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:32:33,252 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:32:33,253 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:32:33,255 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:32:33,256 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:35:17,056 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:35:17,056 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:35:17,058 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:35:17,059 [Worker-17: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:35:37,513 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:35:37,513 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:35:37,516 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:35:37,516 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:35:45,694 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:35:45,695 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:35:45,697 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:35:45,697 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:35:46,722 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:35:46,722 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:35:46,726 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:35:46,726 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:39:37,352 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:tutorial:1.0.0-SNAPSHOT @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-02 17:39:37,795 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:39:37,797 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:39:37,803 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:39:37,804 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:39:39,756 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:tutorial:1.0.0-SNAPSHOT @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-02 17:39:40,443 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:39:40,449 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-02 17:39:40,477 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:39:40,478 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:39:42,036 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:39:42,039 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-02 17:39:42,047 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:39:42,048 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:39:45,994 [Worker-18: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-02 17:39:46,334 [Worker-18: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:tutorial:1.0.0-SNAPSHOT @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-02 17:39:46,637 [Worker-18: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/main/java
+2020-05-02 17:39:46,637 [Worker-18: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/main/resources
+2020-05-02 17:39:46,638 [Worker-18: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/test/java
+2020-05-02 17:39:46,638 [Worker-18: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/test/resources
+2020-05-02 17:39:46,801 [Worker-18: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-02 17:39:47,136 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:39:47,137 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-02 17:39:47,154 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:39:47,155 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:45:39,662 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:tutorial:1.0.0-SNAPSHOT @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-02 17:45:39,885 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:45:39,886 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:45:39,887 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:45:39,888 [Worker-25: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:52:48,519 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:52:48,520 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 17:52:48,532 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:52:48,532 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 17:53:23,527 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:53:23,527 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-02 17:53:23,544 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 17:53:23,544 [Worker-26: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 19:53:13,278 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 19:53:13,282 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-02 19:53:13,285 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 19:53:13,285 [Worker-40: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 19:53:14,354 [Worker-39: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 19:53:14,355 [Worker-39: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-05-02 19:53:14,358 [Worker-39: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 19:53:14,359 [Worker-39: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-02 19:53:18,386 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 19:53:18,390 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-02 19:53:18,393 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-02 19:53:18,393 [Worker-41: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 16:25:30,059 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-03 16:25:48,910 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:terasoluna-batch-tutorial:5.2.1.RELEASE @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-03 16:25:51,350 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 16:25:51,365 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-03 16:25:51,374 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/${project.config.resource.directory}
+2020-05-03 16:25:51,380 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 16:25:51,380 [Worker-7: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 16:25:52,759 [Worker-8: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-03 16:25:53,878 [Worker-8: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:terasoluna-batch-tutorial:5.2.1.RELEASE @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-03 16:25:54,756 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/ch/qos/logback/contrib/logback-mongodb-classic/0.1.5/logback-mongodb-classic-0.1.5-sources.jar のダウンロード中
+2020-05-03 16:25:54,774 [Worker-8: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-05-03 16:25:55,034 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/ch/qos/logback/contrib/logback-mongodb-classic/0.1.5/logback-mongodb-classic-0.1.5-sources.jar
+2020-05-03 16:25:55,073 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback.contrib:logback-mongodb-classic:0.1.5
+2020-05-03 16:25:55,810 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 16:25:55,811 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-03 16:25:55,855 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/${project.config.resource.directory}
+2020-05-03 16:25:55,858 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 16:25:55,859 [Worker-6: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 16:25:56,127 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/ch/qos/logback/contrib/logback-mongodb-core/0.1.5/logback-mongodb-core-0.1.5-sources.jar のダウンロード中
+2020-05-03 16:25:56,418 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/ch/qos/logback/contrib/logback-mongodb-core/0.1.5/logback-mongodb-core-0.1.5-sources.jar
+2020-05-03 16:25:56,436 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback.contrib:logback-mongodb-core:0.1.5
+2020-05-03 16:25:57,020 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE-sources.jar のダウンロード中
+2020-05-03 16:25:57,817 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/springframework/spring-test/5.1.4.RELEASE/spring-test-5.1.4.RELEASE-sources.jar
+2020-05-03 16:25:57,847 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:5.1.4.RELEASE
+2020-05-03 16:25:58,419 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/codehaus/groovy/groovy-all/2.4.16/groovy-all-2.4.16-sources.jar のダウンロード中
+2020-05-03 16:25:59,913 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/codehaus/groovy/groovy-all/2.4.16/groovy-all-2.4.16-sources.jar
+2020-05-03 16:25:59,931 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-all:2.4.16
+2020-05-03 16:26:00,659 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/com/gmongo/gmongo/1.5/gmongo-1.5-sources.jar のダウンロード中
+2020-05-03 16:26:00,793 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/gmongo/gmongo/1.5/gmongo-1.5-sources.jar
+2020-05-03 16:26:00,846 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.gmongo:gmongo:1.5
+2020-05-03 16:26:01,475 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/codehaus/groovy/groovy-ant/2.5.5/groovy-ant-2.5.5-sources.jar のダウンロード中
+2020-05-03 16:26:01,921 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/codehaus/groovy/groovy-ant/2.5.5/groovy-ant-2.5.5-sources.jar
+2020-05-03 16:26:01,960 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-ant:2.5.5
+2020-05-03 16:26:02,555 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13-sources.jar のダウンロード中
+2020-05-03 16:26:04,127 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/ant/ant/1.9.13/ant-1.9.13-sources.jar
+2020-05-03 16:26:04,145 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant:1.9.13
+2020-05-03 16:26:04,713 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.5/groovy-groovydoc-2.5.5-sources.jar のダウンロード中
+2020-05-03 16:26:05,317 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/codehaus/groovy/groovy-groovydoc/2.5.5/groovy-groovydoc-2.5.5-sources.jar
+2020-05-03 16:26:05,338 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-groovydoc:2.5.5
+2020-05-03 16:26:05,909 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13-sources.jar のダウンロード中
+2020-05-03 16:26:07,438 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/ant/ant-junit/1.9.13/ant-junit-1.9.13-sources.jar
+2020-05-03 16:26:07,450 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-junit:1.9.13
+2020-05-03 16:26:08,269 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13-sources.jar のダウンロード中
+2020-05-03 16:26:08,688 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.9.13/ant-launcher-1.9.13-sources.jar
+2020-05-03 16:26:08,705 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-launcher:1.9.13
+2020-05-03 16:26:09,499 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13-sources.jar のダウンロード中
+2020-05-03 16:26:09,789 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/ant/ant-antlr/1.9.13/ant-antlr-1.9.13-sources.jar
+2020-05-03 16:26:09,806 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-antlr:1.9.13
+2020-05-03 16:26:10,362 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/dbunit/dbunit/2.5.4/dbunit-2.5.4-sources.jar のダウンロード中
+2020-05-03 16:26:12,344 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/dbunit/dbunit/2.5.4/dbunit-2.5.4-sources.jar
+2020-05-03 16:26:12,388 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.dbunit:dbunit:2.5.4
+2020-05-03 16:26:12,980 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12-sources.jar のダウンロード中
+2020-05-03 16:26:13,630 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2020-05-03 16:26:13,668 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2020-05-03 16:26:14,215 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar のダウンロード中
+2020-05-03 16:26:14,512 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2020-05-03 16:26:14,526 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2020-05-03 16:26:15,066 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar のダウンロード中
+2020-05-03 16:26:15,933 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2-sources.jar
+2020-05-03 16:26:15,962 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.2
+2020-05-03 16:26:16,535 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.14/poi-ooxml-3.14-sources.jar のダウンロード中
+2020-05-03 16:26:17,569 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.14/poi-ooxml-3.14-sources.jar
+2020-05-03 16:26:17,583 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi-ooxml:3.14
+2020-05-03 16:26:18,125 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/apache/poi/poi/3.14/poi-3.14-sources.jar のダウンロード中
+2020-05-03 16:26:19,513 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/poi/poi/3.14/poi-3.14-sources.jar
+2020-05-03 16:26:19,526 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi:3.14
+2020-05-03 16:26:20,092 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar のダウンロード中
+2020-05-03 16:26:21,670 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2020-05-03 16:26:21,694 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2020-05-03 16:26:22,485 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.14/poi-ooxml-schemas-3.14-sources.jar
+2020-05-03 16:26:22,496 [Worker-0: ソースおよび Javadoc のダウンロード] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.poi:poi-ooxml-schemas:3.14
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:sources:3.14
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2020-05-03 16:26:23,140 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0-sources.jar
+2020-05-03 16:26:23,144 [Worker-0: ソースおよび Javadoc のダウンロード] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.xmlbeans:xmlbeans:2.6.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlbeans:xmlbeans:jar:sources:2.6.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2020-05-03 16:26:23,743 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-sources.jar
+2020-05-03 16:26:23,746 [Worker-0: ソースおよび Javadoc のダウンロード] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for stax:stax-api:1.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact stax:stax-api:jar:sources:1.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2020-05-03 16:26:24,576 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/com/github/virtuald/curvesapi/1.03/curvesapi-1.03-sources.jar のダウンロード中
+2020-05-03 16:26:25,200 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/github/virtuald/curvesapi/1.03/curvesapi-1.03-sources.jar
+2020-05-03 16:26:25,216 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.virtuald:curvesapi:1.03
+2020-05-03 16:26:25,759 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar のダウンロード中
+2020-05-03 16:26:27,202 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/mongodb/mongo-java-driver/2.14.3/mongo-java-driver-2.14.3-sources.jar
+2020-05-03 16:26:27,233 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongo-java-driver:2.14.3
+2020-05-03 16:26:27,784 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/spockframework/spock-core/1.2-groovy-2.4/spock-core-1.2-groovy-2.4-sources.jar のダウンロード中
+2020-05-03 16:26:28,564 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/spockframework/spock-core/1.2-groovy-2.4/spock-core-1.2-groovy-2.4-sources.jar
+2020-05-03 16:26:28,579 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.spockframework:spock-core:1.2-groovy-2.4
+2020-05-03 16:26:29,189 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/org/spockframework/spock-spring/1.2-groovy-2.4/spock-spring-1.2-groovy-2.4-sources.jar のダウンロード中
+2020-05-03 16:26:29,496 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/spockframework/spock-spring/1.2-groovy-2.4/spock-spring-1.2-groovy-2.4-sources.jar
+2020-05-03 16:26:29,509 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.spockframework:spock-spring:1.2-groovy-2.4
+2020-05-03 16:26:30,054 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - https://repo1.maven.org/maven2/com/athaydes/spock-reports/1.6.1/spock-reports-1.6.1-sources.jar のダウンロード中
+2020-05-03 16:26:30,472 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/athaydes/spock-reports/1.6.1/spock-reports-1.6.1-sources.jar
+2020-05-03 16:26:30,487 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.athaydes:spock-reports:1.6.1
+2020-05-03 16:26:30,492 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback.contrib:logback-mongodb-classic:0.1.5
+2020-05-03 16:26:30,497 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ch.qos.logback.contrib:logback-mongodb-core:0.1.5
+2020-05-03 16:26:30,501 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:5.1.4.RELEASE
+2020-05-03 16:26:30,504 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-all:2.4.16
+2020-05-03 16:26:30,509 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.gmongo:gmongo:1.5
+2020-05-03 16:26:30,514 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-ant:2.5.5
+2020-05-03 16:26:30,518 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant:1.9.13
+2020-05-03 16:26:30,522 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.groovy:groovy-groovydoc:2.5.5
+2020-05-03 16:26:30,527 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-junit:1.9.13
+2020-05-03 16:26:30,532 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-launcher:1.9.13
+2020-05-03 16:26:30,536 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-antlr:1.9.13
+2020-05-03 16:26:30,542 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.dbunit:dbunit:2.5.4
+2020-05-03 16:26:30,548 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2020-05-03 16:26:30,553 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2020-05-03 16:26:30,557 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2.2
+2020-05-03 16:26:30,561 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi-ooxml:3.14
+2020-05-03 16:26:30,566 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.poi:poi:3.14
+2020-05-03 16:26:30,572 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2020-05-03 16:26:31,113 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.14/poi-ooxml-schemas-3.14-javadoc.jar
+2020-05-03 16:26:31,115 [Worker-0: ソースおよび Javadoc のダウンロード] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.poi:poi-ooxml-schemas:3.14
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:javadoc:3.14
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2020-05-03 16:26:31,729 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0-javadoc.jar
+2020-05-03 16:26:31,732 [Worker-0: ソースおよび Javadoc のダウンロード] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.apache.xmlbeans:xmlbeans:2.6.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.xmlbeans:xmlbeans:jar:javadoc:2.6.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2020-05-03 16:26:32,283 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar
+2020-05-03 16:26:32,287 [Worker-0: ソースおよび Javadoc のダウンロード] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for stax:stax-api:1.0.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact stax:stax-api:jar:javadoc:1.0.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2020-05-03 16:26:32,293 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.virtuald:curvesapi:1.03
+2020-05-03 16:26:32,296 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mongodb:mongo-java-driver:2.14.3
+2020-05-03 16:26:32,300 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.spockframework:spock-core:1.2-groovy-2.4
+2020-05-03 16:26:32,302 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.spockframework:spock-spring:1.2-groovy-2.4
+2020-05-03 16:26:32,306 [Worker-0: ソースおよび Javadoc のダウンロード] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.athaydes:spock-reports:1.6.1
+2020-05-03 16:26:32,624 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 16:26:32,628 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 16:26:32,628 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/${project.config.resource.directory}
+2020-05-03 16:26:32,632 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 16:26:32,632 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 16:29:24,247 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 16:29:24,248 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-03 16:29:24,267 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/${project.config.resource.directory}
+2020-05-03 16:29:24,269 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 16:29:24,270 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:44:40,703 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-03 18:45:02,760 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:terasoluna-batch-tutorial:1.0.0-SNAPSHOT @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-03 18:45:04,636 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:45:04,647 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-03 18:45:04,662 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:45:04,662 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:45:06,283 [Worker-0: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-03 18:45:07,545 [Worker-0: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:terasoluna-batch-tutorial:1.0.0-SNAPSHOT @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-03 18:45:09,207 [Worker-0: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/main/java
+2020-05-03 18:45:09,208 [Worker-0: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/main/resources
+2020-05-03 18:45:09,214 [Worker-0: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/test/java
+2020-05-03 18:45:09,214 [Worker-0: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/test/resources
+2020-05-03 18:45:09,780 [Worker-0: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-05-03 18:45:11,064 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:45:11,066 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-03 18:45:11,116 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:45:11,117 [Worker-8: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:45:18,819 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:45:18,819 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-03 18:45:18,829 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:45:18,830 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:45:30,221 [Worker-2: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-03 18:45:30,765 [Worker-2: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:terasoluna-batch-tutorial:1.0.0-SNAPSHOT @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-03 18:45:31,160 [Worker-2: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/main/java
+2020-05-03 18:45:31,160 [Worker-2: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/main/resources
+2020-05-03 18:45:31,162 [Worker-2: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/test/java
+2020-05-03 18:45:31,162 [Worker-2: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/test/resources
+2020-05-03 18:45:31,342 [Worker-2: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-03 18:45:31,733 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:45:31,734 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2020-05-03 18:45:31,758 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:45:31,759 [Worker-0: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:50:26,404 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:50:26,408 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:50:26,411 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:50:26,412 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:50:35,008 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:50:35,009 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:50:35,011 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:50:35,012 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:51:14,185 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:51:14,186 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:51:14,190 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:51:14,191 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:53:19,712 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:53:19,712 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:53:19,715 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:53:19,715 [Worker-11: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:53:32,695 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:53:32,695 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:53:32,698 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:53:32,698 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:53:44,583 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:53:44,587 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:53:44,590 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:53:44,590 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:53:47,690 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:53:47,693 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:53:47,697 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:53:47,697 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:55:37,330 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:55:37,333 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:55:37,336 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:55:37,336 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:55:59,472 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:55:59,475 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:55:59,478 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:55:59,478 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:56:02,754 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:56:02,757 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:56:02,759 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:56:02,760 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:56:14,698 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:56:14,701 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:56:14,702 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:56:14,702 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:56:19,326 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:56:19,330 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:56:19,333 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:56:19,334 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:56:28,472 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:56:28,475 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:56:28,477 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:56:28,478 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:56:32,181 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:56:32,183 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:56:32,186 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:56:32,187 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:57:11,099 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:57:11,100 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:57:11,111 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:57:11,111 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:57:36,261 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:57:36,261 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 18:57:36,263 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:57:36,264 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:58:49,844 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:58:49,847 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:58:49,850 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:58:49,850 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 18:59:14,472 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:59:14,475 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 18:59:14,478 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 18:59:14,478 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:00:11,570 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:00:11,572 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:00:11,576 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:00:11,577 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:01:02,221 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:01:02,224 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:01:02,226 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:01:02,226 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:01:18,142 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:01:18,149 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:01:18,153 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:01:18,153 [Worker-14: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:01:22,301 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:01:22,303 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:01:22,304 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:01:22,305 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:03:19,245 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:03:19,248 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:03:19,250 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:03:19,251 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:03:26,143 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:03:26,146 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:03:26,148 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:03:26,148 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:03:35,337 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:03:35,340 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:03:35,342 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:03:35,342 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:04:04,853 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:04:04,856 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:04:04,858 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:04:04,862 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:04:08,667 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:04:08,670 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:04:08,673 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:04:08,673 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:04:11,728 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:04:11,732 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:04:11,737 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:04:11,737 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:04:19,848 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:04:19,851 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:04:19,853 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:04:19,854 [Worker-10: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:06:29,022 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:06:29,023 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:06:29,025 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:06:29,025 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:06:38,641 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:06:38,642 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:06:38,644 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:06:38,644 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:06:57,067 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:06:57,075 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:06:57,078 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:06:57,079 [Worker-12: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:07:15,603 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:07:15,608 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:07:15,614 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:07:15,614 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:07:39,513 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:07:39,515 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:07:39,518 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:07:39,519 [Worker-16: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:13:57,710 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:13:57,713 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:13:57,714 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:13:57,714 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:14:16,735 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:14:16,737 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:14:16,739 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:14:16,740 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:15:27,930 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:15:27,932 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:15:27,934 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:15:27,934 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:15:44,062 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:15:44,064 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:15:44,067 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:15:44,067 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:16:25,539 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:16:25,542 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:16:25,546 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:16:25,546 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:16:31,988 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:16:31,991 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:16:31,993 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:16:31,993 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:16:35,605 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:16:35,607 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:16:35,610 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:16:35,610 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:17:05,097 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:05,101 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:17:05,103 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:05,103 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:17:21,545 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:21,548 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:17:21,555 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:21,556 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:17:26,236 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:26,237 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:17:26,239 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:26,239 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:17:39,651 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:39,653 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:17:39,654 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:39,654 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:17:48,539 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:48,541 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:17:48,543 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:48,544 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:17:50,599 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:50,601 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:17:50,603 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:17:50,604 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:18:07,675 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:07,677 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:18:07,679 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:07,679 [Worker-22: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:18:16,258 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:16,262 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:18:16,265 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:16,266 [Worker-13: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:18:17,318 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:17,321 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:18:17,323 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:17,323 [Worker-15: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:18:19,382 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:19,384 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:18:19,387 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:19,387 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:18:24,984 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:24,986 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:18:24,987 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:24,988 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:18:33,692 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:33,693 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:18:33,695 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:33,695 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:18:42,132 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:42,135 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:18:42,137 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:42,138 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:18:45,514 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:45,517 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:18:45,519 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:45,519 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:18:57,456 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:57,457 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:18:57,459 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:18:57,459 [Worker-21: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:20:34,489 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:20:34,492 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:20:34,495 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:20:34,495 [Worker-19: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:21:01,272 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:21:01,272 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 19:21:01,275 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:21:01,275 [Worker-18: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:23:09,090 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:23:09,090 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 19:23:09,092 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:23:09,092 [Worker-23: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:23:13,114 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:23:13,114 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 19:23:13,117 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:23:13,117 [Worker-20: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:23:15,193 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:23:15,194 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-03 19:23:15,198 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:23:15,198 [Worker-24: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-03 19:32:53,737 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:32:53,739 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2020-05-03 19:32:53,740 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-03 19:32:53,740 [Worker-30: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:46:07,206 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:46:07,208 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:46:07,212 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:46:07,213 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:46:52,077 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:46:52,077 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:46:52,079 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:46:52,080 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:47:00,670 [Worker-137: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:47:00,671 [Worker-137: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:47:00,674 [Worker-137: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:47:00,674 [Worker-137: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:48:13,175 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:48:13,176 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:48:13,177 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:48:13,178 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:48:32,012 [Worker-138: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:48:32,012 [Worker-138: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:48:32,015 [Worker-138: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:48:32,015 [Worker-138: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:48:53,057 [Worker-137: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:48:53,057 [Worker-137: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-05 16:48:53,077 [Worker-137: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:48:53,078 [Worker-137: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:51:53,625 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:51:53,625 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:51:53,627 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:51:53,627 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:51:56,708 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:51:56,709 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:51:56,710 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:51:56,711 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:52:13,924 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:52:13,924 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:52:13,926 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:52:13,926 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:52:30,212 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:52:30,212 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:52:30,214 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:52:30,214 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:52:55,175 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:52:55,175 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:52:55,177 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:52:55,177 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:52:59,386 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:52:59,387 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:52:59,389 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:52:59,389 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:53:17,056 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:53:17,056 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-05 16:53:17,074 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:53:17,074 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:54:22,849 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:54:22,849 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:54:22,851 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:54:22,851 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:54:24,909 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:54:24,909 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:54:24,911 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:54:24,911 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:54:48,613 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:54:48,614 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:54:48,617 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:54:48,618 [Worker-136: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:54:53,229 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:54:53,229 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-05 16:54:53,240 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:54:53,240 [Worker-139: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:59:41,339 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:59:41,339 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:59:41,341 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:59:41,341 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:59:42,373 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:59:42,374 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:59:42,375 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:59:42,375 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 16:59:53,257 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:59:53,258 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 16:59:53,260 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 16:59:53,260 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:00:03,023 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:00:03,023 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:00:03,025 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:00:03,025 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:00:08,768 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:00:08,769 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:00:08,770 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:00:08,770 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:00:19,226 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:00:19,228 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:00:19,230 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:00:19,230 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:00:26,158 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:00:26,158 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:00:26,159 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:00:26,160 [Worker-143: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:01:48,651 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:01:48,653 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:01:48,656 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:01:48,656 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:02:06,735 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:02:06,735 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:02:06,736 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:02:06,737 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:09,118 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:09,119 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:09,120 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:09,120 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:10,134 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:10,135 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:10,135 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:10,135 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:17,497 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:17,497 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:17,498 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:17,498 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:22,739 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:22,740 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:22,741 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:22,741 [Worker-134: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:54,299 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:54,300 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:54,301 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:54,301 [Worker-142: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:59,603 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:59,603 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:03:59,604 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:03:59,604 [Worker-132: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:04:04,754 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:04:04,754 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:04:04,755 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:04:04,755 [Worker-144: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:08:31,814 [Worker-134: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-05 17:08:32,284 [Worker-134: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:terasoluna-batch-tutorial:1.0.0-SNAPSHOT @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-05 17:08:32,610 [Worker-134: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/main/java
+2020-05-05 17:08:32,611 [Worker-134: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/main/resources
+2020-05-05 17:08:32,611 [Worker-134: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/test/java
+2020-05-05 17:08:32,612 [Worker-134: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/test/resources
+2020-05-05 17:08:32,773 [Worker-134: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-05 17:08:33,144 [Worker-147: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:08:33,145 [Worker-147: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-05 17:08:33,166 [Worker-147: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:08:33,167 [Worker-147: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:20:14,205 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:20:14,208 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:20:14,210 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:20:14,211 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:20:32,086 [Worker-153: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-05 17:20:32,524 [Worker-153: Maven プロジェクトの更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.terasoluna.batch:terasoluna-batch-tutorial:1.0.0-SNAPSHOT @ /Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial/pom.xml.
+2020-05-05 17:20:32,881 [Worker-153: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/main/java
+2020-05-05 17:20:32,881 [Worker-153: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/main/resources
+2020-05-05 17:20:32,882 [Worker-153: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /terasoluna-batch-tutorial/src/test/java
+2020-05-05 17:20:32,882 [Worker-153: Maven プロジェクトの更新中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /terasoluna-batch-tutorial/src/test/resources
+2020-05-05 17:20:33,027 [Worker-153: Maven プロジェクトの更新中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-05 17:20:33,471 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:20:33,472 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-05 17:20:33,503 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:20:33,503 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:23:28,942 [Worker-159: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:23:28,943 [Worker-159: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:23:28,945 [Worker-159: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:23:28,945 [Worker-159: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:23:35,473 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:23:35,473 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:23:35,475 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:23:35,475 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:24:09,124 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:24:09,125 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:24:09,126 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:24:09,126 [Worker-155: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:35:31,854 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:35:31,855 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:35:31,856 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:35:31,856 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:35:40,359 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:35:40,360 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:35:40,361 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:35:40,361 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:36:02,690 [Worker-165: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:02,690 [Worker-165: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:36:02,692 [Worker-165: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:02,692 [Worker-165: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:36:07,838 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:07,838 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-05 17:36:07,854 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:07,855 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:36:26,892 [Worker-162: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:26,892 [Worker-162: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:36:26,894 [Worker-162: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:26,894 [Worker-162: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:36:41,560 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:41,560 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:36:41,561 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:41,562 [Worker-166: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:36:43,613 [Worker-162: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:43,613 [Worker-162: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:36:43,616 [Worker-162: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:43,616 [Worker-162: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:36:56,455 [Worker-153: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:56,455 [Worker-153: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:36:56,456 [Worker-153: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:36:56,456 [Worker-153: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:37:01,825 [Worker-165: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:37:01,825 [Worker-165: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:37:01,829 [Worker-165: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:37:01,830 [Worker-165: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 17:37:06,932 [Worker-153: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:37:06,933 [Worker-153: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 17:37:06,934 [Worker-153: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 17:37:06,934 [Worker-153: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:23:32,729 [Worker-176: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:23:32,729 [Worker-176: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:23:32,730 [Worker-176: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:23:32,731 [Worker-176: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:23:55,132 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:23:55,133 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:23:55,137 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:23:55,138 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:24:01,676 [Worker-178: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:24:01,676 [Worker-178: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:24:01,678 [Worker-178: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:24:01,678 [Worker-178: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:24:05,826 [Worker-178: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:24:05,827 [Worker-178: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:24:05,829 [Worker-178: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:24:05,829 [Worker-178: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:25:22,690 [Worker-180: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:25:22,690 [Worker-180: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:25:22,691 [Worker-180: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:25:22,692 [Worker-180: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:29:01,855 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:29:01,855 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:29:01,856 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:29:01,857 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:31:30,368 [Worker-185: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:31:30,369 [Worker-185: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:31:30,371 [Worker-185: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:31:30,371 [Worker-185: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:31:35,315 [Worker-185: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:31:35,315 [Worker-185: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:31:35,316 [Worker-185: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:31:35,317 [Worker-185: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:31:48,411 [Worker-186: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:31:48,411 [Worker-186: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:31:48,412 [Worker-186: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:31:48,413 [Worker-186: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:32:00,249 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:32:00,249 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:32:00,250 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:32:00,251 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:32:21,634 [Worker-184: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:32:21,635 [Worker-184: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:32:21,637 [Worker-184: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:32:21,637 [Worker-184: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:43:29,235 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:43:29,240 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:43:29,243 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:43:29,244 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:43:37,209 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:43:37,211 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:43:37,214 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:43:37,214 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:43:53,030 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:43:53,034 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:43:53,036 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:43:53,036 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:44:14,312 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:44:14,315 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:44:14,316 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:44:14,317 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:44:41,622 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:44:41,625 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:44:41,627 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:44:41,628 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:44:43,717 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:44:43,718 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:44:43,720 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:44:43,720 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:44:47,768 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:44:47,770 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:44:47,773 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:44:47,773 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:44:55,053 [Worker-190: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:44:55,055 [Worker-190: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:44:55,058 [Worker-190: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:44:55,058 [Worker-190: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:45:06,135 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:45:06,137 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:45:06,139 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:45:06,139 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:45:13,492 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:45:13,495 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:45:13,497 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:45:13,497 [Worker-175: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:45:21,589 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:45:21,591 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:45:21,593 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:45:21,593 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:45:31,217 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:45:31,218 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2020-05-05 18:45:31,220 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:45:31,220 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:46:10,288 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:46:10,289 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:46:10,290 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:46:10,290 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:46:16,059 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:46:16,060 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:46:16,061 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:46:16,061 [Worker-191: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:46:19,479 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:46:19,481 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-05 18:46:19,482 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:46:19,482 [Worker-187: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:49:40,254 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:49:40,255 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-05 18:49:40,256 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-05 18:49:40,256 [Worker-188: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:32:20,657 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:32:20,662 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:32:20,666 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:32:20,666 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:32:31,020 [Worker-383: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:32:31,020 [Worker-383: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:32:31,022 [Worker-383: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:32:31,023 [Worker-383: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:32:38,137 [Worker-379: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:32:38,137 [Worker-379: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:32:38,138 [Worker-379: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:32:38,139 [Worker-379: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:38:34,447 [Worker-385: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:38:34,447 [Worker-385: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:38:34,449 [Worker-385: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:38:34,450 [Worker-385: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:38:40,783 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:38:40,783 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:38:40,784 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:38:40,785 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:39:01,452 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:39:01,453 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:39:01,454 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:39:01,454 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:39:23,736 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:39:23,739 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:39:23,741 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:39:23,741 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:39:32,257 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:39:32,258 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:39:32,261 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:39:32,261 [Worker-381: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:39:56,796 [Worker-380: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:39:56,796 [Worker-380: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:39:56,798 [Worker-380: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:39:56,798 [Worker-380: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:40:06,939 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:40:06,940 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:40:06,941 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:40:06,941 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:40:12,900 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:40:12,901 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:40:12,903 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:40:12,903 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:40:14,930 [Worker-385: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:40:14,930 [Worker-385: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:40:14,931 [Worker-385: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:40:14,932 [Worker-385: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:40:19,314 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:40:19,315 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:40:19,317 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:40:19,318 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:41:11,912 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:41:11,915 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:41:11,919 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:41:11,919 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:42:12,314 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:42:12,316 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:42:12,317 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:42:12,317 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:42:22,328 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:42:22,332 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:42:22,336 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:42:22,336 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:42:33,289 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:42:33,291 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:42:33,292 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:42:33,293 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:42:45,047 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:42:45,050 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:42:45,053 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:42:45,054 [Worker-384: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:44:11,324 [Worker-388: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:11,327 [Worker-388: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:44:11,330 [Worker-388: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:11,330 [Worker-388: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:44:19,140 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:19,142 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:44:19,143 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:19,144 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:44:21,268 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:21,271 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:44:21,274 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:21,274 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:44:26,144 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:26,147 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:44:26,149 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:26,149 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:44:33,701 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:33,702 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:44:33,704 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:33,705 [Worker-387: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:44:37,042 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:37,049 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:44:37,051 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:37,052 [Worker-386: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:44:49,195 [Worker-380: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:49,197 [Worker-380: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:44:49,199 [Worker-380: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:49,199 [Worker-380: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:44:55,621 [Worker-388: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:55,624 [Worker-388: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2020-05-09 16:44:55,627 [Worker-388: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:44:55,627 [Worker-388: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:50:24,815 [Worker-391: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:50:24,815 [Worker-391: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:50:24,816 [Worker-391: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:50:24,817 [Worker-391: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:50:29,005 [Worker-389: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:50:29,006 [Worker-389: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:50:29,007 [Worker-389: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:50:29,007 [Worker-389: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 16:50:31,036 [Worker-390: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:50:31,036 [Worker-390: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 16:50:31,038 [Worker-390: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 16:50:31,038 [Worker-390: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 17:02:25,181 [Worker-395: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 17:02:25,182 [Worker-395: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 17:02:25,183 [Worker-395: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 17:02:25,183 [Worker-395: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 17:02:26,199 [Worker-397: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 17:02:26,200 [Worker-397: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 17:02:26,200 [Worker-397: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 17:02:26,200 [Worker-397: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 17:03:25,688 [Worker-394: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 17:03:25,689 [Worker-394: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 17:03:25,690 [Worker-394: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 17:03:25,690 [Worker-394: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:21:02,868 [Worker-395: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:21:02,868 [Worker-395: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:21:02,871 [Worker-395: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:21:02,871 [Worker-395: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:21:14,823 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:21:14,824 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:21:14,826 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:21:14,826 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:21:38,104 [Worker-403: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:21:38,104 [Worker-403: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:21:38,105 [Worker-403: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:21:38,105 [Worker-403: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:22:32,453 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:22:32,453 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:22:32,454 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:22:32,455 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:23:22,269 [Worker-405: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:23:22,269 [Worker-405: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:23:22,271 [Worker-405: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:23:22,271 [Worker-405: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:24:52,681 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:24:52,685 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:24:52,687 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:24:52,687 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:25:00,090 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:25:00,093 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:25:00,096 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:25:00,096 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:25:10,568 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:25:10,570 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:25:10,572 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:25:10,572 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:28:00,867 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:28:00,870 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:28:00,874 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:28:00,874 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:28:40,900 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:28:40,905 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:28:40,907 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:28:40,908 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:32:43,046 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:32:43,048 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:32:43,049 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:32:43,049 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:33:06,876 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:33:06,878 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:33:06,879 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:33:06,880 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:33:24,170 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:33:24,173 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:33:24,175 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:33:24,175 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:33:39,244 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:33:39,247 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:33:39,249 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:33:39,249 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:33:57,724 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:33:57,725 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:33:57,727 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:33:57,727 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:34:03,316 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:34:03,318 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:34:03,320 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:34:03,320 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:34:18,461 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:34:18,464 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:34:18,466 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:34:18,466 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:34:31,749 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:34:31,754 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:34:31,758 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:34:31,758 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:34:44,926 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:34:44,928 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:34:44,930 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:34:44,930 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:34:55,949 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:34:55,952 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:34:55,954 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:34:55,955 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:35:01,296 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:35:01,297 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:35:01,299 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:35:01,299 [Worker-402: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:35:08,098 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:35:08,100 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:35:08,102 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:35:08,102 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:35:25,121 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:35:25,123 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:35:25,126 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:35:25,126 [Worker-410: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:35:29,251 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:35:29,253 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:35:29,255 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:35:29,255 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:35:48,594 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:35:48,596 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:35:48,597 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:35:48,597 [Worker-404: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:36:07,484 [Worker-409: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:36:07,487 [Worker-409: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:36:07,489 [Worker-409: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:36:07,489 [Worker-409: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:38:03,533 [Worker-412: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:38:03,535 [Worker-412: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:38:03,536 [Worker-412: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:38:03,537 [Worker-412: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:38:10,944 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:38:10,946 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:38:10,947 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:38:10,947 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:39:07,164 [Worker-412: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:39:07,164 [Worker-412: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:39:07,166 [Worker-412: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:39:07,166 [Worker-412: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:40:16,912 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:16,912 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:40:16,913 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:16,913 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:40:27,971 [Worker-413: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:27,971 [Worker-413: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:40:27,973 [Worker-413: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:27,973 [Worker-413: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:40:39,099 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:39,100 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:40:39,101 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:39,101 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:40:42,734 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:42,735 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:40:42,737 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:42,737 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:40:49,812 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:49,813 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:40:49,815 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:49,815 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:40:55,150 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:55,150 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:40:55,151 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:55,151 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:40:59,597 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:59,597 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:40:59,598 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:40:59,599 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:41:40,392 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:41:40,392 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:41:40,394 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:41:40,394 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:41:53,161 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:41:53,162 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:41:53,163 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:41:53,163 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:42:11,377 [Worker-413: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:42:11,377 [Worker-413: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:42:11,378 [Worker-413: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:42:11,379 [Worker-413: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:42:46,727 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:42:46,728 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:42:46,729 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:42:46,730 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:43:11,310 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:43:11,310 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:43:11,311 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:43:11,311 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:44:12,340 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:44:12,340 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:44:12,343 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:44:12,343 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:45:43,014 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:45:43,015 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:45:43,044 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:45:43,045 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:47:35,005 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:47:35,008 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:47:35,010 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:47:35,011 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:49:12,508 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:49:12,510 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:49:12,511 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:49:12,511 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:49:14,544 [Worker-415: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:49:14,545 [Worker-415: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:49:14,550 [Worker-415: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:49:14,551 [Worker-415: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:49:34,303 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:49:34,305 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:49:34,308 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:49:34,308 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:50:23,612 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:50:23,614 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:50:23,615 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:50:23,616 [Worker-411: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:50:27,719 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:50:27,721 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:50:27,722 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:50:27,723 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:52:03,651 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:52:03,653 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:52:03,654 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:52:03,654 [Worker-400: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:52:26,948 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:52:26,950 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:52:26,951 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:52:26,951 [Worker-407: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:52:31,102 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:52:31,104 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:52:31,105 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:52:31,105 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:52:49,786 [Worker-414: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:52:49,788 [Worker-414: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:52:49,790 [Worker-414: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:52:49,790 [Worker-414: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:53:02,751 [Worker-416: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:53:02,753 [Worker-416: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 18:53:02,755 [Worker-416: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:53:02,756 [Worker-416: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:57:44,502 [Worker-419: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:57:44,502 [Worker-419: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:57:44,503 [Worker-419: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:57:44,503 [Worker-419: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:57:52,268 [Worker-418: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:57:52,269 [Worker-418: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:57:52,271 [Worker-418: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:57:52,271 [Worker-418: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:57:59,908 [Worker-420: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:57:59,909 [Worker-420: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:57:59,910 [Worker-420: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:57:59,910 [Worker-420: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:58:01,934 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:58:01,934 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:58:01,936 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:58:01,936 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:58:44,238 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:58:44,238 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:58:44,240 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:58:44,240 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 18:58:46,316 [Worker-416: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:58:46,317 [Worker-416: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-09 18:58:46,318 [Worker-416: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 18:58:46,319 [Worker-416: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:25:52,012 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:25:52,014 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:25:52,016 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:25:52,016 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:29:54,865 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:29:54,867 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:29:54,870 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:29:54,870 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:30:14,219 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:30:14,221 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:30:14,222 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:30:14,222 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:30:25,185 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:30:25,188 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:30:25,190 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:30:25,191 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:30:30,569 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:30:30,572 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:30:30,574 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:30:30,574 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:30:51,164 [Worker-421: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:30:51,166 [Worker-421: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:30:51,168 [Worker-421: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:30:51,168 [Worker-421: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:31:17,884 [Worker-427: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:31:17,886 [Worker-427: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:31:17,888 [Worker-427: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:31:17,889 [Worker-427: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:31:37,754 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:31:37,756 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:31:37,757 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:31:37,757 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:31:40,960 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:31:40,967 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:31:40,971 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:31:40,971 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:31:47,931 [Worker-421: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:31:47,933 [Worker-421: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:31:47,934 [Worker-421: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:31:47,934 [Worker-421: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:33:55,176 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:33:55,179 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:33:55,181 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:33:55,181 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:35:16,339 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:35:16,340 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:35:16,342 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:35:16,342 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:35:31,608 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:35:31,612 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:35:31,613 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:35:31,613 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:35:32,634 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:35:32,636 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:35:32,638 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:35:32,638 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:35:57,938 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:35:57,940 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:35:57,942 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:35:57,942 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:36:32,343 [Worker-429: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:36:32,345 [Worker-429: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:36:32,347 [Worker-429: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:36:32,347 [Worker-429: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:37:00,103 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:37:00,106 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:37:00,108 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:37:00,109 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:40:36,407 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:36,409 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:40:36,411 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:36,412 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:40:40,415 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:40,417 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:40:40,418 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:40,418 [Worker-424: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:40:44,517 [Worker-426: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:44,518 [Worker-426: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:40:44,520 [Worker-426: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:44,520 [Worker-426: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:40:49,143 [Worker-426: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:49,145 [Worker-426: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:40:49,147 [Worker-426: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:49,148 [Worker-426: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:40:56,619 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:56,621 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:40:56,622 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:56,623 [Worker-425: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:40:59,667 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:59,669 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:40:59,671 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:40:59,671 [Worker-423: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:41:10,457 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:41:10,459 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:41:10,460 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:41:10,460 [Worker-408: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-09 19:41:55,728 [Worker-429: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:41:55,730 [Worker-429: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2020-05-09 19:41:55,731 [Worker-429: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-09 19:41:55,731 [Worker-429: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-11 13:20:07,246 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-17 16:16:49,443 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
