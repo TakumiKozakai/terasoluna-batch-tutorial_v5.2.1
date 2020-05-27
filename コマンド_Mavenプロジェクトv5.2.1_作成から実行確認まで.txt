@@ -17,48 +17,49 @@ $ mvn clean dependency:copy-dependencies -DoutputDirectory=lib package
 
 $ java -cp 'lib/*:target/*' \
 org.springframework.batch.core.launch.support.CommandLineJobRunner \
-META-INF/jobs/job01.xml job01
+META-INF/jobs/job01.xml \
+job01
 
 #9.4.1 チャンクモデルでのDBアクセス
 $ java -cp 'lib/*:target/*' \
 org.springframework.batch.core.launch.support.CommandLineJobRunner \
-META-INF/jobs/dbaccess/jobPointAddChunk.xml
+META-INF/jobs/dbaccess/jobPointAddChunk.xml \
 jobPointAddChunk
 
 #9.4.1 タスクレットモデルでのDBアクセス
 $ java -cp 'lib/*:target/*' \
 org.springframework.batch.core.launch.support.CommandLineJobRunner \
-META-INF/jobs/dbaccess/jobPointAddTasklet.xml
+META-INF/jobs/dbaccess/jobPointAddTasklet.xml \
 jobPointAddTasklet
 
 #9.4.2 チャンクモデルでのファイルアクセス
 $ java -cp 'lib/*:target/*' \
 org.springframework.batch.core.launch.support.CommandLineJobRunner \
-META-INF/jobs/fileaccess/jobPointAddChunk.xml
-jobPointAddChunk
-inputFile=files/input/input-member-info-data.csv
+META-INF/jobs/fileaccess/jobPointAddChunk.xml \
+jobPointAddChunk \
+inputFile=files/input/input-member-info-data.csv \
 outputFile=files/output/output-member-info-data.csv
 
 #9.4.2 タスクレットモデルでのファイルアクセス
 $ java -cp 'lib/*:target/*' \
 org.springframework.batch.core.launch.support.CommandLineJobRunner \
-META-INF/jobs/fileaccess/jobPointAddTasklet.xml
-jobPointAddTasklet
-inputFile=files/input/input-member-info-data.csv
+META-INF/jobs/fileaccess/jobPointAddTasklet.xml \
+jobPointAddTasklet \
+inputFile=files/input/input-member-info-data.csv \
 outputFile=files/output/output-member-info-data.csv
 
 #9.4.5 チャンクモデルでのファイルアクセス（try~catch）
 $ java -cp 'lib/*:target/*' \
 org.springframework.batch.core.launch.support.CommandLineJobRunner \
-META-INF/jobs/fileaccess/jobPointAddChunk.xml
-jobPointAddChunk
-inputFile=files/input/input-member-info-error-data.csv
+META-INF/jobs/fileaccess/jobPointAddChunk.xml \
+jobPointAddChunk \
+inputFile=files/input/input-member-info-error-data.csv \
 outputFile=files/output/output-member-info-data.csv
 
 #9.4.5 タスクレットモデルでのファイルアクセス（例外ハンドリング）
 $ java -cp 'lib/*:target/*' \
 org.springframework.batch.core.launch.support.CommandLineJobRunner \
-META-INF/jobs/fileaccess/jobPointAddTasklet.xml
-jobPointAddTasklet
-inputFile=files/input/input-member-info-error-data.csv
+META-INF/jobs/fileaccess/jobPointAddTasklet.xml \
+jobPointAddTasklet \
+inputFile=files/input/input-member-info-error-data.csv \
 outputFile=files/output/output-member-info-data.csv
