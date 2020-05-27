@@ -41,5 +41,4 @@ public class PointAddItemProcessor implements ItemProcessor<MemberInfoDto, Membe
 
 		return item;
 	}
-
 }

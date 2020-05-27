@@ -71,6 +71,7 @@
                 <entry key="STOPPED" value="255" />
                 <entry key="FAILED" value="255" />
                 <entry key="UNKNOWN" value="255" />
+                <entry key="SKIPPED" value="200" />
             </util:map>
         </property>
     </bean>

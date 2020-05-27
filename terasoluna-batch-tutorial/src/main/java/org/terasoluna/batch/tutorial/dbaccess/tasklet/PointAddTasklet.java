@@ -15,34 +15,27 @@ import org.springframework.batch.repeat.RepeatStatus;
 import org.springframework.stereotype.Component;
 import org.terasoluna.batch.tutorial.common.dto.MemberInfoDto;
 
-@Component // コンポーネントスキャンの対象とするため、@Componentアノテーションを付与してBean定義を行う。
+@Component
 public class PointAddTasklet implements Tasklet {
 
-	// 定数として、ポイント加算対象とする商品購入フラグ:1を定義する。
 	private static final String TARGET_STATUS = "1";
-	// 定数として、商品購入フラグの初期値:0を定義する。
 	private static final String INITIAL_STATUS = "0";
-	// 定数として、会員種別:G(ゴールド会員)を定義する。
 	private static final String GOLD_MEMBER = "G";
-	// 定数として、会員種別:N(一般会員)を定義する。
 	private static final String NORMAL_MEMBER = "N";
-	// 定数として、ポイントの上限値:1000000を定義する。
 	private static final int MAX_POINT = 1000000;
-	// 定数として、まとめて処理する単位(一定件数):10を定義する。
 	private static final int CHUNK_SIZE = 10;
 
 	// データベースアクセスするためにItemReaderのサブインタフェースである、ItemStreamReaderとして型を定義する。
 	// ItemStreamReaderはリソースのオープン/クローズを実行する必要がある。
 	@Inject
 	ItemStreamReader<MemberInfoDto> reader;
-
 	// ItemWriterを定義する。
 	// ItemStreamReaderとは異なり、リソースのオープン/クローズを実行する必要はない。
 	@Inject
 	ItemWriter<MemberInfoDto> writer; // (10)
-
 	@Inject
 	Validator<MemberInfoDto> validator;
+
 	// ビジネスロジック
 	@Override
 	public RepeatStatus execute(StepContribution contribution, ChunkContext chunkContext) throws Exception {

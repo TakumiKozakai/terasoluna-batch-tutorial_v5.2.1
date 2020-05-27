@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
     <entry loc="/Applications/Eclipse_2019-06.app/Contents/java/7/Home" stamp="1480423539000"/>
+    <entry loc="/Applications/Eclipse_2020-03.app/Contents/java/11/Home" stamp="1579098964000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home" stamp="1410998995000"/>
     <entry loc="/Applications/Eclipse_2019-06.app/Contents/java/8/Home" stamp="1544935106000"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home" stamp="1547799744000"/>
     <entry loc="/Applications/Eclipse_2019-06.app/Contents/java/11/Home" stamp="1555600701000"/>
     <entry loc="/Applications/Eclipse_2019-06.app/Contents/java/6/Home" stamp="1480423553000"/>
     <entry loc="/Applications/Eclipse_2019-06.app/Contents/java/12/Home" stamp="1555798515000"/>

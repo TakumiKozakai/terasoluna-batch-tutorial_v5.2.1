@@ -10,6 +10,7 @@
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
     <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.springframework.batch.core.launch.support.CommandLineJobRunner"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="terasoluna-batch-tutorial"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="META-INF/jobs/job01.xml job01"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="terasoluna-batch-tutorial"/>
     <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>

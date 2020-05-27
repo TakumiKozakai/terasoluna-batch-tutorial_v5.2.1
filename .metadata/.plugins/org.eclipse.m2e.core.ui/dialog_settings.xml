@@ -62,6 +62,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/kozakaitakumi/Workspace/Java/20200501_terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial"/>
 			<item value="/Users/kozakaitakumi/Workspace/Java/terasoluna-batch-tutorial_v5.2.1/terasoluna-batch-tutorial"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -76,5 +77,11 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="508"/>
+		<item key="x" value="81"/>
+		<item key="y" value="-867"/>
 	</section>
 </section>

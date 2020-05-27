@@ -21,8 +21,7 @@ public class JobExitCodeChangeListener implements JobExecutionListener {
 		Collection<StepExecution> stepExecutions = jobExecution.getStepExecutions();
 
 		for (StepExecution stepExecution : stepExecutions) {
-
-			if("SKIPPED".equals(stepExecution.getExitStatus().getExitCode())) {
+			if ("SKIPPED".equals(stepExecution.getExitStatus().getExitCode())) {
 				jobExecution.setExitStatus(new ExitStatus("SKIPPED"));
 				break;
 			}
